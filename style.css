@@ -86,7 +86,9 @@ img{
 .contact-section{
     background: #F9F9FF;
 }
-
+.counter-section{
+    background:red;
+}
  .contact-section .myDiv{ 
       padding: 18px 20px;
       text-align: center;
