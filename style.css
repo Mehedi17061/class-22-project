@@ -86,14 +86,11 @@ img{
     background: #F9F9FF;
 }
 
- .contact-section .myDiv{
-        width: 600px;
-        margin: auto;
-        
-        padding: 10px 15px;
-        text-align: center;
-       box-shadow:1px 1px 10px 0px #ddd;
-      background:#fff;
+ .contact-section .myDiv{ 
+      padding: 18px 20px;
+      text-align: center;
+      box-shadow:1px 1px 10px 0px #ddd;
+      background: #fff;
     }
 
 
